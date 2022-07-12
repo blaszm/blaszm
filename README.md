@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mischa
+- 👀 I’m interested in Scientific programming, especially Finite Element simulations.
+- 🌱 I’m currently learning Julia.
+- 📫 How to reach me: mailto:mischa.blaszczyk@rub.de
