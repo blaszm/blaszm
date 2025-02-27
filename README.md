@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mischa, PhD student at Ruhr University Bochum
+- 👋 Hi, I’m Mischa, Akademischer Rat (Academic advisor/Postdoc) at TU Braunschweig
 
 - 👀 I’m interested in Scientific programming, especially Finite Element simulations.
 - 🌱 I’m currently learning Julia.
